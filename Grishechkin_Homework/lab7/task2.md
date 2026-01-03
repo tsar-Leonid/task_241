@@ -28,3 +28,7 @@
 <img width="496" height="81" alt="image" src="https://github.com/user-attachments/assets/9e7d03db-a502-4c99-ba39-8af1012b63d0" />
 
 как понял оно подключается, но сразу рвётся соединение и что-то с серваками
+
+Заработало!
+
+<img width="785" height="205" alt="image" src="https://github.com/user-attachments/assets/4a0441b6-60ea-4ab2-8bdc-6226f8e60806" />
